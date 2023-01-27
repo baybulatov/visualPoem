@@ -1,3 +1,4 @@
+![visualResult](https://user-images.githubusercontent.com/6635073/215200000-6f93e65f-801b-4949-a042-94a220819cc3.png)
 # visualPoem
 Visualization of poems made by on Processing
 
