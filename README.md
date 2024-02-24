@@ -15,7 +15,7 @@ Thank you for attention!
 
 
 ## How to use:
-1. Install [Processing]([url](https://processing.org)https://processing.org)
+1. Install [Processing](https://processing.org)https://processing.org))
 2. Download poem.pde and Save to your directory
 3. Download Pushkin.txt and put the file into directory with your poem.pde
 4. Go to Tools > Manage Tools > type "SVG" and install the P8gGraphicsSVG plugin by Philippe Lhoste to export your results as SVG
